@@ -20,6 +20,6 @@ We design machine learning algorithms for the annotation, clustering and segment
 We regard biological sequences (DNA/RNA sequences and amino acid sequences) as a special kind of language, and explore biomolecular structure and functions based on sequence analysis using statistical language models, k-mer embeddings and deep learning models.   
 
 
-- Machine learning and data mining
+- Machine Learning and Data Mining
 
 We develop algorithms to deal with large scale, imbalanced and multi-label classification problems, mainly from the biomedical field.
