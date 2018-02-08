@@ -12,7 +12,7 @@ title: Experience
 
 ## Employment History
  
-- Assistant Professor, Dept. of Computer Science, Shanghai Jiao Tong Univ.(2014-)
+- Associate Professor, Dept. of Computer Science, Shanghai Jiao Tong Univ.(2014-)
 - Research Associate, Dept. of Computer Science, University of California, Riverside (2012-2013)
 - Assistant & Associate Professor, Dept. of Computer Science, Shanghai Maritime Univ. (2009-2013)
 
