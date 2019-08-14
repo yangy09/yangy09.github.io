@@ -3,6 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
+## Journal Publications
 ## 2019
 
 - Y Yang, Q Fang, HB Shen, Predicting gene regulatory interactions based on spatial gene expression data and deep learning, PLOS Computational Biology, 2019 (in press).
@@ -11,7 +12,8 @@ title: Publications
 - X Pan#, Y Yang#, C Xia, AH Mirza, HB Shen, Recent Methodology and Progress of Deep learning for RNA-protein interaction prediction. WIREs RNA, 2019:e1544. (# equal contribution)
 - D Wang, L Geng, Y Zhao, Y Yang, Y Huang, Y Zhang, HB Shen， Artificial intelligence-based multi-objective optimization protocol for protein structure refinement. Bioinformatics, 2019 (in press).
 - S Yin, B Zhang, Y Yang, Y Huang, HB Shen, Clustering enhancement of noisy cryo-electron microscopy single-particle images with a network structural similarity metric. Journal of Chemical Information and Modeling, 2019, Volume 59, Issue 4, 1658-1667. 
-2018
+
+## 2018
 - Y Yang, X Fu, W Qu, Y Xiao, HB Shen, MiRGOFS: A GO-based functional similarity measure for miRNAs, with applications to the prediction of miRNA subcellular localization and miRNA-disease association, Bioinformatics, Volume 34, Issue 20, 15 October 2018, Pages 3547–3556.
 - H Zhang#, Y Yang#, HB Shen, “Detection of Curvilinear Structure in Images by a Multi-Centered Hough Forest Method,” IEEE Access, 2018, vol 6
 - Z Cao#, X Pan#, Y Yang#, Y Huang, HB Shen, “The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier, Bioinformatics, Volume 34, Issue 13, 1 July 2018, Pages 2185–2194. 
@@ -36,7 +38,7 @@ title: Publications
 - Y Yang and BL Lu, “Protein subcellular multi-localization prediction using a min-max modular support vector machine,” International Journal of Neural Systems, vol. 20, No. 1, pp. 13-28, 2010. 
 - D Song#, Y Yang#, B Yu, B Zheng, Z Deng, BL Lu, X Chen and T Jiang, “Computational prediction of novel non-coding RNAs in Arabidopsis thaliana”, BMC Bioinformatics 2009, 10(S1):S36
 
-## Conference Publications (Selected)
+## Selected Conference Publications
 - Y Xiao, J Cai, Y Yang*, H Zhao, HB Shen, Prediction of MicroRNA Subcellular Localization by Using a Sequence-to-Sequence Model, in Proceedings of the 2018 IEEE International Conference on Data Mining (ICDM'18), Singapore.
 - G Ji, Y Yang*, HB Shen, "IterVM: An Iterative Model for Single-Particle Cryo-EM Image Clustering Based on Variational Autoencoder and Multi-Reference Alignment”, The IEEE International Conference on Bioinformatics and Biomedicine (BIBM’18), Madrid, Spain
 - T Li, Y Yang*, HB Shen,“HMIML: Hierarchical Multi-Instance Multi-Label Learning of Drosophila Embryogenesis Images Using Convolutional Neural Networks” The IEEE International Conference on Bioinformatics and Biomedicine (BIBM’18), Madrid, Spain 
