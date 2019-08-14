@@ -32,7 +32,7 @@ title: Publications
 - W Kong, X Mou, J Deng, R Zhong, S Wang, Y Yang, W Zeng, “Differences of immune disorders between Alzheimer's disease and breast cancer based on transcriptional regulation”, Plos One, 12(7):e0180337
 - W Kong, X Mou, N Zhang, S Li, Y Yang，The construction of common and specific significance subnetworks of Alzheimer’s disease from multiple brain regions , BioMed Research International, 2015
 - J Wong, L Gao, Y Yang, W Ma, et al., “Roles of small RNAs in soybean defense against Phytophthora sojae infection,” The Plant Journal, 2014, doi: 10.1111/tpj.12590
-- Y Yang, S Qi, “A new feature selection method for computational prediction of type III secreted effectors”, International Journal of Data Mining and Bioinformatics, vol. 10, no. 4, 2014.(IF:0.65)
+- Y Yang, S Qi, “A new feature selection method for computational prediction of type III secreted effectors”, International Journal of Data Mining and Bioinformatics, vol. 10, no. 4, 2014.
 - BL Lu, X Wang, Y Yang, H Zhao, “Learning from imbalanced data sets with a Min-Max modular support vector machine,” Frontiers of Electrical and Electronic Engineering, vol. 6(1), pp. 56-71, 2011
 - Y Yang, J Zhao, RL Morgan, W Ma, T Jiang, “Computational prediction of type III secreted proteins from gram-negative bacteria,” BMC Bioinformatics, 2010, 11(S1):S47
 - Y Yang and BL Lu, “Protein subcellular multi-localization prediction using a min-max modular support vector machine,” International Journal of Neural Systems, vol. 20, No. 1, pp. 13-28, 2010. 
