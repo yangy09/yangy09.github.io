@@ -6,14 +6,10 @@ title: Teaching
 
 ## Teaching Assignments
 
-### Spring, 2016
-- [Machine Learning](http://bcmi.sjtu.edu.cn/~yangyang/ml/) (for graduate student)
-- Machine Learning CS385 (for "IEEE Class")
+- [Machine Learning](http://bcmi.sjtu.edu.cn/~yangyang/ml/) (for graduate student) Spring 2015,2016,2017,2018,2019
+- Machine Learning CS385 (for “IEEE Honored Class”) Spring 2016,2017,2018,2019
+- Algorithms EI334 (for “IEEE Honored Class”) Spring 2014
+- Advanced Programming Language Design CS902 Autumn 2014
+- Mathematical Logic MA115 Autumn 2014
 
-### 2015
-- Machine Learning
-
-### 2014
-- Algorithm (EI334)
-- Discrete Mathematics (MA115)
 
