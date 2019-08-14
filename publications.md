@@ -3,43 +3,43 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
+## 2019
 
-## Selected Papers
+- Y Yang, Q Fang, HB Shen, Predicting gene regulatory interactions based on spatial gene expression data and deep learning, PLOS Computational Biology, 2019 (in press).
+- W Long, T Li, Y Yang*, HB Shen, FlyIT: Drosophila Embryogenesis Image Annotation based on Image Tiling and Convolutional Neural Networks, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019 (in press). (* corresponding author)
+- Y Yang, M Zhou, Q Fang, Hong-Bin Shen. (2019). Annofly: Annotating drosophila embryonic images based on an attention-enhanced RNN model. Bioinformatics, Volume 35, Issue 16, 15 August 2019, Pages 2834–2842.
+- X Pan#, Y Yang#, C Xia, AH Mirza, HB Shen, Recent Methodology and Progress of Deep learning for RNA-protein interaction prediction. WIREs RNA, 2019:e1544. (# equal contribution)
+- D Wang, L Geng, Y Zhao, Y Yang, Y Huang, Y Zhang, HB Shen， Artificial intelligence-based multi-objective optimization protocol for protein structure refinement. Bioinformatics, 2019 (in press).
+- S Yin, B Zhang, Y Yang, Y Huang, HB Shen, Clustering enhancement of noisy cryo-electron microscopy single-particle images with a network structural similarity metric. Journal of Chemical Information and Modeling, 2019, Volume 59, Issue 4, 1658-1667. 
+2018
+- Y Yang, X Fu, W Qu, Y Xiao, HB Shen, MiRGOFS: A GO-based functional similarity measure for miRNAs, with applications to the prediction of miRNA subcellular localization and miRNA-disease association, Bioinformatics, Volume 34, Issue 20, 15 October 2018, Pages 3547–3556.
+- H Zhang#, Y Yang#, HB Shen, “Detection of Curvilinear Structure in Images by a Multi-Centered Hough Forest Method,” IEEE Access, 2018, vol 6
+- Z Cao#, X Pan#, Y Yang#, Y Huang, HB Shen, “The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier, Bioinformatics, Volume 34, Issue 13, 1 July 2018, Pages 2185–2194. 
+- K Liu, Y Yang, Incorporating Link Information in Feature Selection for Identifying Tumor Biomarkers by Using miRNA-mRNA Paired Expression Data, Current Proteomics 15 (2), 165-171
+- X Yin, J Yang, F Xiao, Y Yang, H Shen, MemBrain: An easy-to-use online webserver for transmembrane protein structure prediction, Nano-Micro Letters 10 (1), 2.
+- Y Yang, Z Wu, W Kong. “Improving clustering of microRNA microarray data by incorporating functional similarity”. Current bioinformatics, 13(1),34-41, 2018
 
-- Hum-mPLoc 3.0: Prediction enhancement of human protein subcellular localization through modeling the hidden correlations of gene ontology and functional domain features. Hang Zhou, Yang Yang, and Hong-Bin Shen. Bioinformatics, 33(6), 2017, 843-853
+## 2017
+- H Zhang#, Y Yang#, HB Shen, “Line Junction Detection Without Prior-Delineation of Curvilinear Structure in Biomedical Images,” IEEE Access, 2017, 6：2016-2027
+- Y Yang, Y Xiao, T Cao, W Kong, “MiRFFS: a functional group-based feature selection method for the identification of microRNA biomarkers”, Int. J. Data Mining and Bioinformatics, vol. 18(1), 2017
+- W Kong, X Mou, J Deng, B Di, R Zhong, S Wang, Y Yang, W Zeng, Differences of immune disorders between Alzheimer’s disease and breast cancer based on transcriptional regulation, PloS one 12 (7), e0180337, 2017
+- Y Yang, N Huang, L Hao, W Kong, “A clustering-based approach for the identification of microRNA combinatorial biomarkers”, BMC Genomics, 18 (2), 210, 2017
 
-- MiRFFS: a functional group-based feature selection method for the identification of microRNA biomarkers. Yang Yang, Yiqun Xiao, Tianyu Cao and Wei Kong. Int. J. Data Mining and Bioinformatics, vol. 18(1), 2017
+## Selected publications before 2017
+- Y Yang*, Z. Xu, D Song, “Missing value imputation for microRNA expression data by using a GO-based similarity measure”, BMC bioinformatics, 2016,17(1):10
+- W Kong, X Mou, J Deng, R Zhong, S Wang, Y Yang, W Zeng, “Differences of immune disorders between Alzheimer's disease and breast cancer based on transcriptional regulation”, Plos One, 12(7):e0180337
+- W Kong, X Mou, N Zhang, S Li, Y Yang，The construction of common and specific significance subnetworks of Alzheimer’s disease from multiple brain regions , BioMed Research International, 2015
+- J Wong, L Gao, Y Yang, W Ma, et al., “Roles of small RNAs in soybean defense against Phytophthora sojae infection,” The Plant Journal, 2014, doi: 10.1111/tpj.12590
+- Y Yang, S Qi, “A new feature selection method for computational prediction of type III secreted effectors”, International Journal of Data Mining and Bioinformatics, vol. 10, no. 4, 2014.(IF:0.65)
+- BL Lu, X Wang, Y Yang, H Zhao, “Learning from imbalanced data sets with a Min-Max modular support vector machine,” Frontiers of Electrical and Electronic Engineering, vol. 6(1), pp. 56-71, 2011
+- Y Yang, J Zhao, RL Morgan, W Ma, T Jiang, “Computational prediction of type III secreted proteins from gram-negative bacteria,” BMC Bioinformatics, 2010, 11(S1):S47
+- Y Yang and BL Lu, “Protein subcellular multi-localization prediction using a min-max modular support vector machine,” International Journal of Neural Systems, vol. 20, No. 1, pp. 13-28, 2010. 
+- D Song#, Y Yang#, B Yu, B Zheng, Z Deng, BL Lu, X Chen and T Jiang, “Computational prediction of novel non-coding RNAs in Arabidopsis thaliana”, BMC Bioinformatics 2009, 10(S1):S36
 
-- Improving clustering of microRNA microarray data by incorporating functional similarity. Yang Yang, Zhichen Wu and Wei Kong, Current Bioinformatics,2016,11(999) 
-
-- A clustering-based approach for the identification of microRNA combinatorial biomarkers. Yang Yang, Ning Huang, Luning Hao and Wei Kong. BMC Genomics, 2017, 18(s2)
-
-- Kaiwen Liu, Yang Yang*,“Incorporating link information in feature selection for identifying tumor biomarkers by using miRNA-mRNA paired expression data”, Current Proteomics, 2017 
-
-- Differences of immune disorders between Alzheimer's disease and breast cancer based on transcriptional regulation. Wei Kong, Xiaoyang Mou, Jin Deng, Benteng Di, Ruxing Zhong, Shuaiqun Wang, Yang Yang, Weiming Zeng. Plos One, 12(7):e0180337
-
-- Missing value imputation for microRNA expression data by using a GO-based similarity measure. Yang Yang, Zhuangdi Xu and Dandan Song. BMC bioinformatics, 2016, 17(1):109
-
-- Improving clustering of microRNA microarray data by incorporating functional similarity. Yang Yang, Zhichen Wu and Wei Kong. Current bioinformatics, 2016
-
-- The Construction of Common and Specific Significance Subnetworks of Alzheimer’s Disease from Multiple Brain Regions. Wei Kong, Xiaoyang Mou, Na Zhang, Weiming Zeng, Shasha Li and Yang Yang. BioMed research international, 2015
-
-- Roles of small RNAs in soybean defense against Phytophthora sojae infection. James Wong, Lei Gao, Yang Yang et al. The Plant Journal, 2014, 79(6):928–940
-
-- A new feature selection method for computational prediction of type III secreted effectors. Yang Yang and Sihui Qi. International journal of data mining and bioinformatics, 2014, 10(4):440–454
-
-- Identification of novel type III effectors using latent Dirichlet allocation. Yang, Yang. Computational and mathematical methods in medicine, 2012, 2012():
-
-- Learning from imbalanced data sets with a Min-Max modular support vector machine. Bao-Liang Lu, Xiao-Lin Wang, Yang Yang and Hai Zhao. Frontiers of Electrical and Electronic Engineering in China, 2011, 6(1):56–71
-
-- Computational prediction of type III secreted proteins from gram-negative bacteria. Yang Yang, Jiayuan Zhao, Robyn L Morgan, Wenbo Ma and Tao Jiang. BMC bioinformatics, 2010, 11(1):1
-
-- Protein subcellular multi-localization prediction using a min-max modular support vector machine. Yang Yang and Bao-Liang Lu. International Journal of Neural Systems, 2010, 20(01):13–28
-
-- Computational prediction of novel non-coding RNAs in Arabidopsis thaliana. Dandan Song, Yang Yang, Bin Yu, Binglian Zheng, Zhidong Deng, Bao-Liang Lu, Xuemei Chen and Tao Jiang. BMC bioinformatics, 2009, 10(1):1
-
-- Feature reduction using a topic model for the prediction of type iii secreted effectors. Sihui Qi, Yang Yang and Anjun Song. International Conference on Neural Information Processing, pp.155–163 ( 2011)
-
-
-
+## Conference Publications (Selected)
+- Y Xiao, J Cai, Y Yang*, H Zhao, HB Shen, Prediction of MicroRNA Subcellular Localization by Using a Sequence-to-Sequence Model, in Proceedings of the 2018 IEEE International Conference on Data Mining (ICDM'18), Singapore.
+- G Ji, Y Yang*, HB Shen, "IterVM: An Iterative Model for Single-Particle Cryo-EM Image Clustering Based on Variational Autoencoder and Multi-Reference Alignment”, The IEEE International Conference on Bioinformatics and Biomedicine (BIBM’18), Madrid, Spain
+- T Li, Y Yang*, HB Shen,“HMIML: Hierarchical Multi-Instance Multi-Label Learning of Drosophila Embryogenesis Images Using Convolutional Neural Networks” The IEEE International Conference on Bioinformatics and Biomedicine (BIBM’18), Madrid, Spain 
+- X Fu, Y Xiao, Y Yang*, “Prediction of Type III Secreted Effectors Based on Word Embeddings for Protein Sequences”, in Proc. International symposium on bioinformatics research and applications, ISBRA 2018
+- Y Yang, T Cao, W Kong, “Feature selection based on functional group structure for microRNA expression data analysis”, the 2016 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2016)
 
