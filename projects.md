@@ -5,6 +5,7 @@ title: Projects
 ---
 
 ## Research Grants
+- "Prediction of ncRNA subcellular localization based on multi-modal machine learning", National Natural Science Foundation of China (No. 61972251), 2020-2023
 
 - "Study on the approaches for reliably screening microRNA biomarkers",  Shanghai Municipal Natural Science Foundation (No. 16ZR1448700), 2016-2019
 
