@@ -7,7 +7,8 @@ title: Publications
 ## 2019
 
 - Y Yang, Q Fang, HB Shen, Predicting gene regulatory interactions based on spatial gene expression data and deep learning, PLOS Computational Biology, 2019 (in press).
-- W Long, T Li, Y Yang*, HB Shen, FlyIT: Drosophila Embryogenesis Image Annotation based on Image Tiling and Convolutional Neural Networks, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019 (in press). (* corresponding author)
+- K Zhang, X Pan, Yang Yang*, HB Shen, CRIP: predicting circRNA-RBP interaction sites using a codon-based encoding and hybrid deep neural networks. RNA, 2019 (in press).
+- W Long, T Li, Y Yang*, HB Shen, FlyIT: Drosophila Embryogenesis Image Annotation based on Image Tiling and Convolutional Neural Networks, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019 (in press).
 - Y Yang, M Zhou, Q Fang, Hong-Bin Shen. (2019). Annofly: Annotating drosophila embryonic images based on an attention-enhanced RNN model. Bioinformatics, Volume 35, Issue 16, 15 August 2019, Pages 2834–2842.
 - X Pan#, Y Yang#, C Xia, AH Mirza, HB Shen, Recent Methodology and Progress of Deep learning for RNA-protein interaction prediction. WIREs RNA, 2019:e1544. (# equal contribution)
 - D Wang, L Geng, Y Zhao, Y Yang, Y Huang, Y Zhang, HB Shen， Artificial intelligence-based multi-objective optimization protocol for protein structure refinement. Bioinformatics, 2019 (in press).
@@ -28,6 +29,7 @@ title: Publications
 - Y Yang, N Huang, L Hao, W Kong, “A clustering-based approach for the identification of microRNA combinatorial biomarkers”, BMC Genomics, 18 (2), 210, 2017
 
 ## Selected publications before 2017
+- H Zhou#, Y Yang#, HB Shen, “Hum-mPLoc 3.0: Prediction enhancement of human protein subcellular localization through modeling the hidden correlations of gene ontology and functional domain features,” Bioinformatics, 33(6), 843-853, 2016
 - Y Yang*, Z. Xu, D Song, “Missing value imputation for microRNA expression data by using a GO-based similarity measure”, BMC bioinformatics, 2016,17(1):10
 - W Kong, X Mou, J Deng, R Zhong, S Wang, Y Yang, W Zeng, “Differences of immune disorders between Alzheimer's disease and breast cancer based on transcriptional regulation”, Plos One, 12(7):e0180337
 - W Kong, X Mou, N Zhang, S Li, Y Yang，The construction of common and specific significance subnetworks of Alzheimer’s disease from multiple brain regions , BioMed Research International, 2015
