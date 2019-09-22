@@ -7,7 +7,7 @@ title: Publications
 ## 2019
 
 - Y Yang, Q Fang, HB Shen, Predicting gene regulatory interactions based on spatial gene expression data and deep learning, PLOS Computational Biology, 2019 (in press).
-- K Zhang, X Pan, Yang Yang*, HB Shen, CRIP: predicting circRNA-RBP interaction sites using a codon-based encoding and hybrid deep neural networks. RNA, 2019 (in press).
+- K Zhang, X Pan, Y Yang*, HB Shen, CRIP: predicting circRNA-RBP interaction sites using a codon-based encoding and hybrid deep neural networks. RNA, 2019 (in press).
 - W Long, T Li, Y Yang*, HB Shen, FlyIT: Drosophila Embryogenesis Image Annotation based on Image Tiling and Convolutional Neural Networks, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019 (in press).
 - Y Yang, M Zhou, Q Fang, Hong-Bin Shen. (2019). Annofly: Annotating drosophila embryonic images based on an attention-enhanced RNN model. Bioinformatics, Volume 35, Issue 16, 15 August 2019, Pages 2834–2842.
 - X Pan#, Y Yang#, C Xia, AH Mirza, HB Shen, Recent Methodology and Progress of Deep learning for RNA-protein interaction prediction. WIREs RNA, 2019:e1544. (# equal contribution)
