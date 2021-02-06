@@ -4,14 +4,28 @@ permalink: /publications/index.html
 title: Publications
 ---
 ## Journal Publications
+## 2021
+
+- W Long, T Li, Y Yang*, HB Shen, FlyIT: Drosophila Embryogenesis Image Annotation based on Image Tiling and Convolutional Neural Networks, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 18(1):194-204, 2021.1
+- L Yuan, Y Yang*, DeCban: Prediction of circRNA-RBP Interaction Sites by Using Double Embeddings and Cross-Branch Attention Networks. Front. Genet. 11:632861. 2021.1
+
+## 2020
+
+- W Long, Y Yang*, HB Shen, ImPLoc: A multi-instance deep learning model for protein subcellular localization based on immunohistochemistry images. Bioinformatics, 2020, 36: 2244-2250.
+- X Pan, Y Fang, X Li, Y Yang, HB Shen, RBPsuite: RNA-protein binding sites prediction suite based on deep learning. BMC Genomics, 2020, 21:1-8.
+- R Xie, Y Chen, J Cai, Y Yang, HB Shen, SPREAD: A Fully Automated Toolkit for Single-Particle Cryogenic Electron Microscopy Data 3D Reconstruction with Image-Network-Aided Orientation Assignment. Journal of Chemical Information and Modeling, 2020, 60: 2614-2625.
+- Y Guo, Y Yang, Y Huang, HB Shen, Discovering Nuclear Targeting Signal Sequence through Protein Language Learning and Multivariate Analysis. Analytical Biochemistry, 2020, 591: 113565.
+- SH Feng, WX Zhang, J Yang, Y Yang, HB Shen, Topology prediction improvement of α-helical transmembrane proteins through helix-tail modeling and multiscale deep learning fusion. Journal of Molecular Biology, 2020, 432: 1279-1296. 
+- D Wang, L Geng, Y Zhao, Y Yang, Y Huang, Y Zhang, HB Shen， Artificial intelligence-based multi-objective optimization protocol for protein structure refinement. Bioinformatics, 2020, 36: 437-448.
+-	X Fu, Y Yang*, WEDeepT3: predicting type III secreted effectors based on word embedding and deep learning, Quantitative Biology, 2019(4).
+-	Y Ju, L Yuan, Y Yang*, H Zhao, CircSLNN: Identifying RBP-binding sites on circRNAs via sequence labeling neural networks, Frontiers in Genetics, vol 10, artivle 1184, 2019.11.22  
+
 ## 2019
 
-- Y Yang, Q Fang, HB Shen, Predicting gene regulatory interactions based on spatial gene expression data and deep learning, PLOS Computational Biology, 2019 (in press).
-- K Zhang, X Pan, Y Yang*, HB Shen, CRIP: predicting circRNA-RBP interaction sites using a codon-based encoding and hybrid deep neural networks. RNA, 2019 (in press).
-- W Long, T Li, Y Yang*, HB Shen, FlyIT: Drosophila Embryogenesis Image Annotation based on Image Tiling and Convolutional Neural Networks, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019 (in press).
+- Y Yang, Q Fang, HB Shen, Predicting gene regulatory interactions based on spatial gene expression data and deep learning, PLoS Comput Biol 15(9): e1007324.
+- K Zhang, X Pan, Y Yang*, HB Shen, CRIP: predicting circRNA-RBP interaction sites using a codon-based encoding and hybrid deep neural networks. RNA (2019) 25:1604–1615
 - Y Yang, M Zhou, Q Fang, Hong-Bin Shen. (2019). Annofly: Annotating drosophila embryonic images based on an attention-enhanced RNN model. Bioinformatics, Volume 35, Issue 16, 15 August 2019, Pages 2834–2842.
 - X Pan#, Y Yang#, C Xia, AH Mirza, HB Shen, Recent Methodology and Progress of Deep learning for RNA-protein interaction prediction. WIREs RNA, 2019:e1544. (# equal contribution)
-- D Wang, L Geng, Y Zhao, Y Yang, Y Huang, Y Zhang, HB Shen， Artificial intelligence-based multi-objective optimization protocol for protein structure refinement. Bioinformatics, 2019 (in press).
 - S Yin, B Zhang, Y Yang, Y Huang, HB Shen, Clustering enhancement of noisy cryo-electron microscopy single-particle images with a network structural similarity metric. Journal of Chemical Information and Modeling, 2019, Volume 59, Issue 4, 1658-1667. 
 
 ## 2018
@@ -41,6 +55,8 @@ title: Publications
 - D Song#, Y Yang#, B Yu, B Zheng, Z Deng, BL Lu, X Chen and T Jiang, “Computational prediction of novel non-coding RNAs in Arabidopsis thaliana”, BMC Bioinformatics 2009, 10(S1):S36
 
 ## Selected Conference Publications
+
+- R Hu, J Cai, W Zheng, Y Yang*, HB Shen, NiuEM: A Nested-iterative Unsupervised Learning Model for Single-particle Cryo-EM Image Processing. 583-588, The IEEE International Conference on Bioinformatics and Biomedicine (BIBM’20)
 - Y Xiao, J Cai, Y Yang*, H Zhao, HB Shen, Prediction of MicroRNA Subcellular Localization by Using a Sequence-to-Sequence Model, in Proceedings of the 2018 IEEE International Conference on Data Mining (ICDM'18), Singapore.
 - G Ji, Y Yang*, HB Shen, "IterVM: An Iterative Model for Single-Particle Cryo-EM Image Clustering Based on Variational Autoencoder and Multi-Reference Alignment”, The IEEE International Conference on Bioinformatics and Biomedicine (BIBM’18), Madrid, Spain
 - T Li, Y Yang*, HB Shen,“HMIML: Hierarchical Multi-Instance Multi-Label Learning of Drosophila Embryogenesis Images Using Convolutional Neural Networks” The IEEE International Conference on Bioinformatics and Biomedicine (BIBM’18), Madrid, Spain 
