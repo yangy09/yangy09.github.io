@@ -18,7 +18,7 @@ title: Publications
 - SH Feng, WX Zhang, J Yang, Y Yang, HB Shen, Topology prediction improvement of α-helical transmembrane proteins through helix-tail modeling and multiscale deep learning fusion. Journal of Molecular Biology, 2020, 432: 1279-1296. 
 - D Wang, L Geng, Y Zhao, Y Yang, Y Huang, Y Zhang, HB Shen， Artificial intelligence-based multi-objective optimization protocol for protein structure refinement. Bioinformatics, 2020, 36: 437-448.
 -	X Fu, Y Yang*, WEDeepT3: predicting type III secreted effectors based on word embedding and deep learning, Quantitative Biology, 2019(4).
--	Y Ju, L Yuan, Y Yang*, H Zhao, CircSLNN: Identifying RBP-binding sites on circRNAs via sequence labeling neural networks, Frontiers in Genetics, vol 10, artivle 1184, 2019.11.22  
+-	Y Ju, L Yuan, Y Yang*, H Zhao, CircSLNN: Identifying RBP-binding sites on circRNAs via sequence labeling neural networks, Frontiers in Genetics, vol 10, article 1184, 2019.11.22  
 
 ## 2019
 
